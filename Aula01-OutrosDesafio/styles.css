@@ -1,0 +1,102 @@
+html {
+    height: 100%;
+}
+@media (max-height: 500px) {
+  body {
+    min-height:800px;
+  }
+}
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://dailymockup.com/wp-content/uploads/edd/2019/04/Free-Laptop-Mockup-Mac-Book.jpg');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+  height: 100vh;
+}
+
+.page-subtitle {
+  margin-top: 15px;
+  font-size: 1.8rem;
+}
+.page-title {
+  color: #e0af26;
+  margin: 0 0 25px;
+  font-size: 2.4rem;
+}
+.page-title, .page-subtitle{
+  text-shadow: #1b1c1f 2px 3px 2px;
+}
+.page-logo {
+  width: 200px;
+  padding-bottom: 20px;
+}
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.areaCalculo {
+  display: flex;
+  flex-direction: column;
+  background: rgba(27, 28, 31, 0.7);
+  backdrop-filter: blur(7px);
+  --webkit-backdrop-filter: blur(100px);
+  margin-top: 28px;
+  padding: 32px;
+  border-radius: 6px;
+  box-shadow: 2px 2px 2px #0e1d2f;
+}
+.areaCalculo h1 {
+  font-weight: 700;
+  font-size: 36px;
+}
+.areaCalculo h1, h2{
+  color: #eee;
+}
+
+.listaDesafio {
+  padding: 35px 0 0 0;
+}
+.listaDesafio li {
+  list-style-type: none;
+  font-weight: 400px;
+  color: #FAFAFA;
+  text-align: left;
+  font-size: 1.4rem;
+  padding: 1rem 0;
+  text-align: left;
+}
+.areaCalculo a {
+  color: #e0af26;
+  text-decoration: none;
+  font-weight: bolder;
+}
+.areaCalculo a:hover {
+  color: #fcaf2b;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.indicador{
+  display: flex;
+  flex-direction: column;
+  padding-top: 25px;
+  color: #eee;
+  text-align: left;
+  font-size: 1.4rem;
+}
+
+.indicador img {
+  padding: 15px;
+}
