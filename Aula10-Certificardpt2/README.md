@@ -12,7 +12,7 @@ Nesta décima e última aula da Imersão Dev, você vai evoluir seu portfólio c
 - Fazemos a lógica em Javascript para alterar entre os temas;
 
 
---- 
+---
 
 ### Notas sobre conseitos e observações:
 
@@ -59,4 +59,4 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-**Desafio:** criar área para badges, certificados, socialmidia, etc.
+**Desafio:** criar área para badges, certificados, social mídia e trocar botão "tema escuro" para "tema claro" quando tema escuro estiver ativo.
