@@ -1,23 +1,8 @@
-﻿# [3ª ImersãoDev_ - Alura](https://imersao.dev)
+# [3ª ImersãoDev_ - Alura](https://imersao.dev)
 
 ## 10 aulas gratuitas para aprender a criar seus primeiros códigos e começar a sua carreira em programação.
 
 [**Imersão Dev | Aprenda a programar de graça | Alura**](https://www.youtube.com/watch?v=-Gr1QJc7kco)
-
-
----
-
-# SOBRE O DEV
-
-## Hello, Friend.
-
-Me chamo Lannyer, mais conhecido como Lanny. Nada mais que um nerd, à moda não-tão-antiga, fã de tecnologia e cultura pop, picado por um certo mosquitinho vermelho e com alguns transtornos mentais na mochila.
-
-Comecei minha jornada no desenvolvimento web, por volta de 2011, depois de trabalhar como menor aprendiz no setor de tecnologia da Caixa Econômica Federal. Iniciei meus estudos em uma agência de publicidade, na região metropolitana de BH. Depois de um período trabalhando em uma pequena agência como _front-end_ e ter iniciado o tecnólogo em Sistemas para Internet, na UNIBH, decidi sair do mercado de T.I interrompendo, tambem, o tecnologo por descontentamento e questões de saúde mental. Decidi então focar em uma das minhas paixões, cozinhar.
-
-Depois de idas e vindas no mercado da gastronomia e um híato, também, por questões de saúde mental, decidi voltar para o desenvolvimento web, com o intuito de juntar a T.I com a psicologia e atuar no desenvolvimento das linguagens em crianças dentro do espectro autista, depois de escutar um episódio do Nerdcast, ["Cientistas em empresas de tecnologia"](https://jovemnerd.com.br/nerdcast/cientistas-em-empresas-de-tecnologia/), com os gigantes Caio Gomes e André Souza, onde debatiam a presença de profissionais de áreas distintas à tecnologia atuando, de forma fundamental, dentro dos processos tecnológicos.
-
-O objetivo agora, é finalizar os projetos da imersão e aprimorá-los apenas com os conteúdos ensinados nas aulas e buscando isnpiração em projetos de outros alunos.
 
 
 ---
