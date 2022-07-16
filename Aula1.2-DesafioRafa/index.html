@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="./styles.css" media="screen" />
+    <title>Desafios Aula 01 - Rafa Ballerini - 3ª & 4ª Imersão Dev</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 class="page-title">Aula 01 - Calculadora de medidas</h1>
+
+        <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-conversor-de-moedas.svg" class="page-logo" alt="">
+
+    </div>
+    <div class="barrinha"></div>
+    <div class="areaCalculo">
+
+      <h1 class="conversor-title ">Desafio Rafa Ballerini - Conversor de medidas</h1>
+
+      <p><label for="moeda">Insira o valor</label><p>
+      <br>
+      <input type="number" id="valor" size="2" /><br>
+      <select id="taxaConversao">
+          <option value="">Opções</option>
+          <option value="real">Milimetro - mm</option>
+          <option value="euro">Centimetro - cm</option>
+          <option value="bitcoin">Decimetro - dm</option>
+          <option value="dogecoin">Decametro - dam</option>
+          <option value="unomile">Hectametro - hm</option>
+          <option value="golbolinha">Kilometro</option>
+          <option value="balajuquinha">Polegadas - in</option>
+          <option value="balajuquinha">Milhas - mi</option>
+          <option value="balajuquinha">Jardas - yd</option>
+          <option value="balajuquinha">Pés - ft</option>
+        </select>
+      <button type="submit" onclick="Converter()">Converter</button>
+  
+      <div id="valorConvertido">
+    
+        <p>O valor convertido é valorFinal em taxaConversaoBase!</p>
+      
+      </div>
+
+    </div>
+
+    <div class="barrinha"></div>
+    <div class="rodape">
+      <p>Design criado por <a href="https://rafaballerini.tech">Rafaella Ballerini</a>.</p>
+
+    </div>
+
+    <a href="https://alura.com.br/" target="_blank"><img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo"></a>
+
+    <scrip type="text/javascript" src="./js/script.js"></scrip>
+  
+  </body>
+
+</html>

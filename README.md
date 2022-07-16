@@ -1,4 +1,4 @@
-# [3ª ImersãoDev_ - Alura](https://imersao.dev)
+﻿# [3ª ImersãoDev_ - Alura](https://imersao.dev)
 
 ## 10 aulas gratuitas para aprender a criar seus primeiros códigos e começar a sua carreira em programação.
 
@@ -25,23 +25,29 @@ O objetivo agora, é finalizar os projetos da imersão e aprimorá-los apenas co
 # SOBRE A IMERSÃO
 
 ## ATENÇÃO!!!
+
 >**Os projetos aqui encontradas, são as atividades realizadas em aula. Todos os métodos e conceitos aprendidos aplicados, tanto na realização dos projetos, quanto nos desafios. Há também inspirações em projetos de outros alunos.**
 
 ---
 
 ## Aulas todos os dias
+
 Logo no 1º dia você já vai escrever seu primeiro código! Não é necessário nenhum pré-requisito.
 
 ## Desafios
+
 Acreditamos que o melhor aprendizado é feito na prática. Por isso, teremos diversos desafios para consolidar seu conhecimento e evoluir em programação, mesmo sem ter nenhuma experiência prévia.
 
 ## Didática Alura
+
 Todas as aulas estão sendo construídas a partir da didática e qualidade da maior escola de tecnologia online do Brasil, com especialistas em programação e front-end.
 
 ## Comunidade
+
 Os nossos instrutores e instrutoras estarão disponíveis para correção de exercícios e responder dúvidas no Discord exclusivo da Imersão Dev. Você também vai poder conhecer pessoas que estão no mesmo nível que o seu, discutir sobre carreira e trocar experiências práticas.
 
 ## O que você vai aprender?
+
 1. Mergulhar em HTML, CSS e JavaScript do zero.
 2. Encarar desafios personalizados.
 3. Desenvolver o seu portfólio, desde o primeiro dia.
@@ -95,6 +101,7 @@ Na primeira aula da Imersão Dev, vamos criar uma calculadora de média e aprend
 Na segunda aula da Imersão Dev, vamos criar um conversor de moedas, onde você conseguirá transformar em reais um produto que estiver com o preço em dólares!
 
 **Conteúdo detalhado desta aula:**
+
 - Interagir com usuário para receber os preços a serem convertidos;
 - Criar a lógica para saber como converter;
 - Utilizar funções que interagem com a tela;
@@ -117,6 +124,7 @@ Na segunda aula da Imersão Dev, vamos criar um conversor de moedas, onde você 
 Na terceira aula da Imersão Dev, vamos criar uma jogo de adivinhação, onde o programa escolhe um número aleatório e nós vamos tentar acertar.
 
 **Conteúdo detalhado desta aula:**
+
 - Realizar o fork do projeto com template inicial;
 - Fazer testes utilizando console.log();
 - Criar a lógica por trás do "chute" com if, else if e else;
@@ -162,6 +170,7 @@ No nosso dia-a-dia é normal trabalharmos com quantidades grandes de dados. Pens
 Na maior parte das vezes, queremos que a entrada dos nossos dados não seja apenas através do código que desenvolvemos ou pelo console, mas sim na tela. No nosso projeto AluraFlix queremos fazer dessa mesma maneira, e para isso utilizaremos o input.
 
 **Conteúdo detalhado desta aula:**
+
 - Sintaxe e criação de funções no JavaScript;
 - Integrando funções criadas no JavaScript com o HTML que está sendo exibido na tela;
 - Condicionando a execução (ou "chamada") de uma função a um clique em um botão na tela;
@@ -208,6 +217,7 @@ Nesta sexta aula da Imersão Dev, vamos criar uma tabela de classificação e ap
 Nesta sétima aula da Imersão Dev, vamos criar um jogo de cartas chamado Trunfo! 
 
 **Conteúdo detalhado desta aula:**
+
 - Criar as cartas do jogo e definir seus atributos;
 - Desenvolver uma função para sortear uma carta para o jogador e outra para a máquina;
 - Exibindo os atributos das cartas na tela para o jogador;
