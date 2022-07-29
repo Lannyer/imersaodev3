@@ -16,6 +16,7 @@ Nesta nona aula da Imersão Dev, desscobriremos como usar o Figma para um layout
 ### Notas sobre conseitos e observações:
 
 **google fonts -** 
+Google Fonts é uma biblioteca com mais de 800 fontes livres licenciadas, um diretório web interativo para navegar na biblioteca, e APIs para usar convenientemente as fontes através de CSS e Android.
 
 ~~~html
 <style>
@@ -90,7 +91,9 @@ DESAFIOS
 >Os desafios podem, ou não, conter conteúdos ainda não estutados até o momento desta aula, sendo, assim, necessário pesquisa e estudos.
 Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-**Desafio Paulo:** personalizar o projeto com outros links de redes sociais, currcículos, etc.
-**Desafio Ballerini:** terminar projeto do Figma. 
+- **Desafio Paulo:** personalizar o projeto com outros links de redes sociais, currcículos, etc.
+- **Desafio Ballerini:** terminar projeto do Figma. 
 realizar novos projetos e aprimorar os anteriores.
-**Desafio bônus - Paulo:** realizar novos projetos e aprimorar os anteriores.
+- **Desafio bônus - Paulo:** realizar novos projetos e aprimorar os anteriores.
+
+[CodePen - Aula 09 : Portfólio pt.1](https://codepen.io/lannyer/pen/KKyJdOx) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula9-Certificardpt1)

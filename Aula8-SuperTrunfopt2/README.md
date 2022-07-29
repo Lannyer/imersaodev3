@@ -81,8 +81,10 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-**Desafio Paulo:** personalisar estilo.
-**Desafio Gui:** exibir as cartas em uma função. 
-**Desafio Ballerini:** criar um baralho. 
-**Desafio bônus - Ballerini:** ganhar a carta do adversário.
-**Desafio bônus:** criar botão "Jogar Novamente".
+- **Desafio Paulo:** personalisar estilo.
+- **Desafio Gui:** exibir as cartas em uma função. 
+- **Desafio Ballerini:** criar um baralho. 
+- **Desafio bônus - Ballerini:** ganhar a carta do adversário.
+- **Desafio bônus:** criar botão "Jogar Novamente".
+
+[CodePen - Aula 08: Supertrunfo pt.2](https://codepen.io/lannyer/pen/KKyJdjx) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula8-SuperTrunfopt2)

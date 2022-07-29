@@ -1,37 +1,69 @@
 var carta1 = {
   nome: "Bulbassauro",
   atributos: {
-    ataque: 7,
-    defesa: 8,
-    magia: 6
+    ATAQUE: 7,
+    DEFESA: 8,
+    MAGIA: 6
   }
 };
 var carta2 = {
   nome: "Darth Vader",
   atributos: {
-    ataque: 9,
-    defesa: 8,
-    magia: 2
+    ATAQUE: 9,
+    DEFESA: 8,
+    MAGIA: 2
   }
 };
 var carta3 = {
   nome: "Shiryu de Dragão",
   atributos: {
-    ataque: 5,
-    defesa: 9,
-    magia: 10
+    ATAQUE: 5,
+    DEFESA: 9,
+    MAGIA: 10
   }
 };
 var carta4 = {
+  nome: "Dalek",
+  atributos: {
+    ATAQUE: 105,
+    DEFESA: 190,
+    MAGIA: 10
+  }
+};
+var carta5 = {
+  nome: "Pé de Manga",
+  atributos: {
+    ATAQUE: 1500,
+    DEFESA: 1900,
+    MAGIA: 11000
+  }
+};
+var carta6 = {
+  nome: "Goku",
+  atributos: {
+    ATAQUE: 8001,
+    DEFESA: 1090,
+    MAGIA: 1050
+  }
+};
+var carta7 = {
   nome: "Rochelle",
   atributos: {
-    ataque: 15,
-    defesa: 19,
-    magia: 110
+    ATAQUE: 1200,
+    DEFESA: 1500,
+    MAGIA: 10000
+  }
+};
+var carta8 = {
+  nome: "Michael Schot",
+  atributos: {
+    ATAQUE: 1.5,
+    DEFESA: 1.9,
+    MAGIA: 1.10
   }
 };
 
-var cartas = [carta1, carta2, carta3, carta4];
+var cartas = [carta1, carta2, carta3, carta4, carta5, carta6, carta7, carta8];
 var cartaMaquina
 var cartaJogadore
 
@@ -48,6 +80,7 @@ function sortearCarta() {
     document.getElementById("btnSortear").disabled = true; document.getElementById("btnJogar").disabled = false;
   
   exibirOpcoes()
+
 }
 
 function exibirOpcoes() {
@@ -55,7 +88,8 @@ function exibirOpcoes() {
   var opcoesTexto = "";
   
   for (var atributo in cartaJogadore.atributos) {
-    opcoesTexto += "<input type='radio' name='atributo' value='" + atributo + "'>" + atributo;
+    opcoesTexto += "<input type='radio'  id='" + atributo + "Label' name='atributo' value='" + atributo + "'><label for='" + atributo + "Label'>" + atributo + "</input></label>";
+        
   }
   opcoes.innerHTML = opcoesTexto;
 }
@@ -83,5 +117,6 @@ function jogar() {
   } else {
     elementoResultado.innerHTML = "Empatou!"
     }
+  
   console.log(cartaMaquina);
 }

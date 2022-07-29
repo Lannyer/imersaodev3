@@ -34,8 +34,10 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-**Desafio Paulo (Aula 2) - Projeto principal:** Criar conversor de km para anos luz.
-**Desafio Ballerini (Aula 2) - Projeto principal:** Criar novos botões de conversão.✔️
-**1º Desafio Bônus Paulo (Aula 2) - Projeto principal:** Colocar conversor de BitCoin junto ao conversor de moedas.✔️
-**2º Desafio bônus Paulo (Aula 2) - Projeto principal:** usar funções em cada conversão, usando valor de retorno.
-**3º Desafio bônus Paulo (Aula 2) - Projeto principal:** Input para escolher a taxa de conversão.✔️
+- **Desafio Paulo (Aula 2) - Projeto principal:** Criar conversor de km para anos luz.
+- **Desafio Ballerini (Aula 2) - Projeto principal:** Criar novos botões de conversão.✔️
+- **1º Desafio bônus Paulo 1 - Projeto principal:** Colocar conversor de BitCoin junto ao conversor de moedas.✔️
+- **2º Desafio bônus Paulo 2 - Projeto principal:** usar funções em cada conversão, usando valor de retorno.
+- **3º Desafio bônus Paulo 3 - Projeto principal:** Input para escolher a taxa de conversão.✔️
+
+[CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.1-ConversorDesafioGui)
