@@ -67,13 +67,65 @@ var variavel-em-kebab-case = "Um exemplo de Kebab Case."
 
 **-** _hoisting_: é a "elevação" de uma variável para o escopo global. Sempre que uma variável é declarada como ```var```, indiferente de seu escopo, ela é elevada para o ínio do código. Para especificar o escopo que  uma variável pertence, utilziamos as declarações ```var```, ```let```e ```const```.
 
-**-** _var_: do inglês _variable_, ou, variável no Portugês. É declarada por _default_(padrão) como  _undefined_(indefinido), quando não atribuído um valor para ela. Não importa onde está sendo declarada, ela sempre "sofrerá" **hoisting**, portanto, sempre será executada indiferente do escopo.
+**-** _var_: do inglês _variable statement_, ou, _declaração variável_ no Portugês. É declarada por _default_(padrão) como  _undefined_(indefinido), quando não atribuído um valor para ela. Não importa onde está sendo declarada, ela sempre "sofrerá" **hoisting**, portanto, sempre será executada indiferente do escopo.
+> [Ver mais](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/var)
 
-**-** _const_: do inglês _constant_, ou, cosntante no Portugês. Uma vez atribuído um valor à variável, este valor será fixo, ou seja, cosntante.
+Modelos de declaração de variável ```var```.
+_Ex:_
+~~~javascript
+var a = 0;
+var b = 0;
+~~~
 
-**-** _let_: muito provavelemnte, derivado do jargão matemático. Por exemplo, um professor passa um problema e define "let _x_ be our hypotenuse...", "let _x_ be the root of our equation" que em português seria algo como "digamos que o _x_ é nossa hipotenusa", "o _x_ será a raiz da nossa equação" respectivamente. É a forma mais comum de, atualmente, de declarar uma variável dentro de um escopo limitado. 
+Ou
 
->Para mais detalhes, e exemplos, sobre as declarações de variáveis, leia [este artigo](https://www.alura.com.br/artigos/entenda-diferenca-entre-var-let-e-const-no-javascript?gclid=Cj0KCQjw0PWRBhDKARIsAPKHFGitv_vjtF7_DXl-kcb8u6FSk174YZFuQ7YUU-iktcEDwQbSga3H6V4aAsg2EALw_wcB) da Alura sobre o assunto!
+~~~javascript
+var a = 0, b = 0;
+~~~
+
+Ou
+ ~~~javascript
+var a = "A";
+var b = a;
+~~~
+
+Equivalente a:
+
+~~~javascript
+var a, b = a = "A";
+~~~
+
+**-** _const_: do inglês _constant_, ou, cosntante no Portugês. Uma vez atribuído um valor à _declaração ```const```_, este valor será fixo, ou seja, cosntante, ela cria uma variável somente leitura, comumemente declarada em caixa alta, e ela não pode ser redeclarada.
+> OBS: Constantes globais não se tornam propriedades do objeto ```window```, diferente da criação de variáveis com ```var```.
+Uma constante não pode ter o mesmo nome que uma função ou variável que esteja no mesmo escopo.
+Existem outras características importantes a serem levadas em considerações, para saber mais basta clicar no link _Veja mais_ logo abaixo.
+ [Ver mais](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/const)
+
+**-** _let_: muito provavelemnte, derivado do jargão matemático. Por exemplo, um professor passa um problema e define "let _x_ be our hypotenuse...", "let _x_ be the root of our equation" que em português seria algo como "digamos que o _x_ é nossa hipotenusa", "o _x_ será a raiz da nossa equação" respectivamente. É a forma mais comum de, atualmente, de declarar uma variável dentro de um escopo limitado.
+> Existem outras características importantes a serem levadas em considerações, para saber mais basta clicar no link _Veja mais_ logo abaixo.
+_DICA_: Leia o trecho sobre [Temporal dead zone (TDZ)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#temporal_dead_zone_tdz).
+[Ver mais](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+
+_Ex:_
+~~~javascript
+var a = 5;
+var b = 10;
+
+if (a === 5) {
+  let a = 4; // O escopo é dentro do bloco if
+  var b = 1; // O escopo é dentro da função
+
+  console.log(a);  // 4
+  console.log(b);  // 1
+}
+
+console.log(a); // 5
+console.log(b); // 1
+~~~
+> Repare que o escopo da variável ```let a```é dentro do bloco ```if``` e o escopo da variável ```var b``` é dentro da função.
+
+Para mais detalhes, e exemplos, sobre as declarações de variáveis, leia [este artigo](https://www.alura.com.br/artigos/entenda-diferenca-entre-var-let-e-const-no-javascript?gclid=Cj0KCQjw0PWRBhDKARIsAPKHFGitv_vjtF7_DXl-kcb8u6FSk174YZFuQ7YUU-iktcEDwQbSga3H6V4aAsg2EALw_wcB) da Alura sobre o assunto!
+> [Neste artigo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/var) sobre sintaxe podemos encontrar, também, exemplos e definições.
 
 
 ---
