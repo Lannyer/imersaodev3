@@ -1,15 +1,23 @@
 # [3ª & 4ª ImersãoDev - Alura](https://imersao.dev)
+<a name="topo"></a>
 
 ## 10 aulas gratuitas para aprender a criar seus primeiros códigos e começar a sua carreira em programação.
 
 [**Imersão Dev | Aprenda a programar de graça | Alura**](https://www.youtube.com/watch?v=-Gr1QJc7kco)
 
+<a name="menu"></a>
+## MENU
+- [SOBRE A IMERSÃO](#indice1)
+- [CONTEÚDO DA IMERSÃO](#indice2)
+- [ATIVIDADES & DESAFIOS](#indice3)
+- [SOBRE O DEV](#indice4)
 
 ---
 
 <br>
 
-# SOBRE A IMERSÃO
+<a name="indice1"></a>
+# [SOBRE A IMERSÃO](#menu)
 
 ## Aulas todos os dias
 
@@ -48,7 +56,8 @@ _E para consultas usei as plataformas:_
 
 <br>
 
-# CONTEÚDO DA IMERSÃO 
+<a name="indice2"></a>
+# [CONTEÚDO DA IMERSÃO](#menu)
 
 ## [Seja bem-vindo as aulas da 3ª, e 4ª, ImersãoDev Alura](https://codepen.io/lannyer/details/yLKPzpv)
 
@@ -66,8 +75,9 @@ Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, pa
 
 <br>
 
+<a name="indice3"></a>
 <a name="ancora"></a>
-# ATIVIDADES & DESAFIOS
+# [ATIVIDADES & DESAFIOS](#menu)
 
 - [AULA 1 - CALCULADORA DE MÉDIA: VARIÁVEIS & OPERAÇÕES](#ancora01)
 - [AULA 2 - CONVERSOR DE MOEDAS](#ancora02)
@@ -102,7 +112,7 @@ Na primeira aula da Imersão Dev, vamos criar uma calculadora de média e aprend
 
 [CodePen - Aula 01: Calculadora de média](https://codepen.io/lannyer/pen/RwLvPJj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.0-Media) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.1-OutrosDesafio) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.2-DesafioRafa)
 
-[Atividades](#ancora)
+#### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora02"></a>
@@ -128,7 +138,7 @@ Na segunda aula da Imersão Dev, vamos criar um conversor de moedas, onde você 
 
 [CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.0-Conversor) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.1-ConversorDesafioGui) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.2-ConversorDesafioPaulo)
 
-[Atividades](#ancora)
+#### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora03"></a>
@@ -152,7 +162,7 @@ Na terceira aula da Imersão Dev, vamos criar uma jogo de adivinhação, onde o 
 
 [Codepen - Aula 03: Mentalista](https://codepen.io/lannyer/pen/gOGJXBe?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula3-Mentalista)
 
-[Atividades](#ancora)
+#### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora04"></a>
@@ -178,7 +188,7 @@ No nosso dia-a-dia é normal trabalharmos com quantidades grandes de dados. Pens
 
 [CodePen - Aula 04 pt.1: Listas & Laços](https://codepen.io/lannyer/pen/MWOgLRp?editors=0010) | [CodePen - Aula 04 pt.2: Aluraflix 1.0](https://codepen.io/lannyer/pen/OJOLqWy?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula4-Aluraflix1.0)
 
-[Atividades](#ancora)
+#### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora05"></a>
@@ -205,7 +215,7 @@ Na maior parte das vezes, queremos que a entrada dos nossos dados não seja apen
 
 [CodePen - Aula 05: Aluraflix 2.0](https://codepen.io/lannyer/pen/OJOVVOZ?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula5-Alurafli2.0)
 
-[Atividades](#ancora)
+#### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora06"></a>
@@ -232,7 +242,7 @@ Nesta sexta aula da Imersão Dev, vamos criar uma tabela de classificação e ap
 
 [CodePen - Aula 06: Tabela de classificação](https://codepen.io/lannyer/pen/abVQqyj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula6-Tabela)
 
-[Atividades](#ancora)
+#### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora07"></a>
@@ -257,7 +267,7 @@ Nesta sétima aula da Imersão Dev, vamos criar um jogo de cartas chamado Trunfo
 
 [CodePen - Aula 07: Supertrunfo pt.1](https://codepen.io/lannyer/pen/ZEawbZV) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula7-SuperTrunfopt1)
 
-[Atividades](#ancora)
+#### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora08"></a>
@@ -284,7 +294,7 @@ Nesta oitava aula da Imersão Dev, vamos evoluir ainda mais nosso Trunfo, focand
 
 [CodePen - Aula 08: Supertrunfo pt.2](https://codepen.io/lannyer/pen/KKyJdjx) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula8-SuperTrunfopt2)
 
-[Atividades](#ancora)
+#### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora09"></a>
@@ -308,6 +318,8 @@ realizar novos projetos e aprimorar os anteriores.
 
 [CodePen - Aula 09 : Portfólio pt.1](https://codepen.io/lannyer/pen/KKyJdOx) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula9-Certificardpt1)
 
+#### [_**Lista de atividades**_](#ancora)
+
 
 <a id="ancora10"></a>
 ## AULA 10 - CERTIFICARD 2.0: PORTFÓLIO
@@ -328,4 +340,19 @@ Nesta décima e última aula da Imersão Dev, você vai evoluir seu portfólio c
 
 [CodePen - Aula 10 : Portfólio pt.2](https://codepen.io/lannyer/pen/gOXqPYR) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula10-Certificardpt2)
 
-[Atividades](#ancora)
+#### [_**Lista de atividades**_](#ancora)
+
+---
+
+<br>
+
+<a name="indice4"></a>
+# [SOBRE O DEV](#menu)
+
+## Hello, Friend.
+
+Me chamo Lannyer, mais conhecido como Lanny. Nada mais que um nerd, à moda não-tão-antiga, fã de tecnologia e cultura pop, picado por um mosquitinho vermelho aí. Comecei minha jornada no desenvolvimento web por volta de 2011, saindo do mercado em 2016, junto da interrupção da faculdade de Sistemas para Internet, para seguir a carreira de cozinheiro.
+
+Depois desse hiato, decidi, voltar para o desenvolvimento web, com o intuito de juntar a T.I com a psicologia e atuar no desenvolvimento das linguagens em crianças dentro do espectro autista.
+
+#### [_**Início**_](#topo)
