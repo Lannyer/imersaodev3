@@ -50,13 +50,13 @@ body {
   padding: 8px 16px;
   background: #ecf4ff;
   border-radius: 100px;
-  
+
 }
 
 .projetos {
   display: flex;
   flex-direction: column;
-  background:linear-gradient(230.65deg, #0065BD 27.49%, #0087FC 83.19%);
+  background: linear-gradient(230.65deg, #0065BD 27.49%, #0087FC 83.19%);
   margin-top: 28px;
   padding: 32px;
   border-radius: 20px;
@@ -83,16 +83,16 @@ body {
 
 /* TEMA ESCURO */
 .dark {
-   background: linear-gradient(236.85deg, #00213D 27.26%, #00437D 96.03%); 
+  background: linear-gradient(236.85deg, #00213D 27.26%, #00437D 96.03%);
 }
 
 .dark .container {
   background: #333439;
   color: #f6f6f6;
-} 
+}
 
 .dark .projetos {
-   background:linear-gradient(230.65deg, #00213D 27.49%, #002E57 83.19%);
+  background: linear-gradient(230.65deg, #00213D 27.49%, #002E57 83.19%);
 }
 
 .dark .tema button {

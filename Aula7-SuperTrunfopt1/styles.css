@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto Mono", monospace;
   min-height: 854px;
-  background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-07-super-trunfo-bg.png");
+  background-image: url('https://pbs.twimg.com/media/EkdgFwQX0AIc0vA.jpg');
   background-color: #000000;
   background-size: cover;
   background-position: center top;
@@ -14,21 +14,25 @@ body {
   padding: 20px;
 }
 
+.page-logo {
+  margin: 95px 0 50px 0;
+}
+
 .page-title {
-  color: #ffffff;
-  margin: 5px 0;
+  color: #eee;
+  margin: 50px 0 50px 0;
+  font-size: 2.2rem;
+  font-weight: bolder;
+  text-shadow: #6530aa 2px 3px 2px;
+  text-align: center;
 }
 
 button {
   padding: 0.8rem 1.5rem;
-  margin: 1rem 0;
+  margin: 15px 0 75px 0;
   border-radius: 5px;
   border: none;
   font-size: 1rem;
-}
-
-h2 {
-  color: white;
 }
 
 #carta-jogador {
@@ -67,5 +71,20 @@ h2 {
 }
 
 .opcoes {
-  color: white;
+  font-size: 25px;
+  color: #eee;
+  font-weight: bolder;
+  text-shadow: #6530aa 2px 3px 2px;
+}
+
+.resultado {
+  margin-top: 75px;
+  color: #eee;
+  font-size: 2.2rem;
+  font-weight: bolder;
+  text-shadow: #1b1c1f 2px 3px 2px;
+  box-sizing: border-box;
+  background-color: #6530aa;
+  padding: 0.7rem 0 0.7rem;
+  text-align: center;
 }

@@ -69,7 +69,7 @@ function obtemAtributoSelecionado() {
 function jogar() {
   var atributoSelecionado = obtemAtributoSelecionado();
   var divResultado = document.getElementById("resultado");
-  
+
   if (cartaJogador.atributos[atributoSelecionado] > cartaMaquina.atributos[atributoSelecionado]) {
     htmlResultado = "<p class='resultado-final'>Você Venceu!</p>"
   } else if (cartaJogador.atributos[atributoSelecionado] < cartaMaquina.atributos[atributoSelecionado]) {
@@ -78,8 +78,8 @@ function jogar() {
     htmlResultado = "<p classe='resultado-final'>Empatou</p>"
   }
   divResultado.innerHTML = htmlResultado;
-    document.getElementById('btnJogar').disabled = true;
- exibirCartaMaquina();
+  document.getElementById('btnJogar').disabled = true;
+  exibirCartaMaquina();
 }
 
 function exibirCartaJogador() {
@@ -97,7 +97,7 @@ function exibirCartaJogador() {
 
 function exibirCartaMaquina() {
   var divCartaMaquina = document.getElementById("carta-maquina");
-  divCartaMaquina.style.backgroundImage = `url(${cartaMaquina.imagem})`; 
+  divCartaMaquina.style.backgroundImage = `url(${cartaMaquina.imagem})`;
   moldura = '<img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/card-super-trunfo-transparent.png" style=" width: inherit; height: inherit; position: absolute;">';
   var tagHTML = "<div id='opcoes' class='carta-status'>";
   var opcoesTexto = "";

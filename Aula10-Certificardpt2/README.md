@@ -59,6 +59,7 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-- **Desafio:** criar área para badges, certificados, social mídia e trocar botão "tema escuro" para "tema claro" quando tema escuro estiver ativo.
+- **Desafio:** criar área para badges, certificados, social mídia. ✔
+- **Desafio:** trocar botão "tema escuro" para "tema claro" quando tema escuro estiver ativo.
 
 [CodePen - Aula 10 : Portfólio pt.2](https://codepen.io/lannyer/pen/gOXqPYR) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula10-Certificardpt2)

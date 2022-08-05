@@ -43,7 +43,7 @@ function Converter() {
   if (taxaConversao == "dogecoin") {
     valorEmDogecoin = valorEmDolar * taxaConversaoDogecoin;
     elementoConvertido = document.getElementById("valorConvertido");
-    valorConvertido ="O resultado em Dogecoin é: DOGE " + valorEmDogecoin + "!";
+    valorConvertido = "O resultado em Dogecoin é: DOGE " + valorEmDogecoin + "!";
     elementoConvertido.innerHTML = valorConvertido; //feedback
   }
   if (taxaConversao == "unomile") {
