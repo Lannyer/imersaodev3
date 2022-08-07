@@ -244,7 +244,9 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 - **Desafio Paulo:** corrigir problema quando joga sem selecionar atributo. 
 - **Desafio Gui:** acrescentar cartas.
-- **Desafio Ballerini:** imagem do personagem escolhido. 
+- **Desafio Ballerini:** imagem do personagem escolhido. ❗
 - **Desafio bônus:**  cartas de forma direta [ Reassistir para relembrar ].
+
+#### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
 
 [CodePen - Aula 07: Supertrunfo pt.1](https://codepen.io/lannyer/pen/ZEawbZV) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula7-SuperTrunfopt1)

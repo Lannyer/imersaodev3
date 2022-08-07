@@ -191,9 +191,11 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-- **Desafio Ballerini:** Colocar legenda.
-- **Desafio Gui:** Remover filme.
-- **Desafio Paulo:** Guardar em lista.
-- **Desafio bônus - Paulo** No conversor de dólar: usar funções em cada conversão, usando valor de retorno. Input para escolher a taxa de conversão (atualziar usando função).
+- **Desafio Ballerini:** Colocar legenda. ❗
+- **Desafio Gui:** Remover filme. ❗
+- **Desafio Paulo:** Guardar em lista. ❗
+- **Desafio bônus - Paulo** No conversor de dólar: usar funções em cada conversão, usando valor de retorno. Input para escolher a taxa de conversão (atualziar usando função). _**Obs:** Desafio computado na aula. Para ver status, vá até o README dá aula em questão._
+
+#### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
 
 [CodePen - Aula 05: Aluraflix 2.0](https://codepen.io/lannyer/pen/OJOVVOZ?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula5-Alurafli2.0)

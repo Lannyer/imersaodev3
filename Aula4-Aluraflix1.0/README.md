@@ -94,8 +94,10 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-- **Desafio Paulo:** pesquisar outras formas de iteração.
+- **Desafio Paulo:** pesquisar outras formas de iteração. ✔️
 - **Desafio Gui:** inserir imagem via submit.✔️
-- **Desafio Ballerini:** condição para evitar filme repetido.
+- **Desafio Ballerini:** condição para evitar filme repetido. ❗
+
+#### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
 
 [CodePen - Aula 04 pt.1: Listas & Laços](https://codepen.io/lannyer/pen/MWOgLRp?editors=0010) | [CodePen - Aula 04 pt.2: Aluraflix 1.0](https://codepen.io/lannyer/pen/OJOLqWy?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula4-Aluraflix1.0)

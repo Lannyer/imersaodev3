@@ -18,32 +18,84 @@ Nesta décima e última aula da Imersão Dev, você vai evoluir seu portfólio c
 
 **flex box -**
 
-**-**
-align-self: flex-end;
+**-** _align-self: flex-end:_
 
-**-**
-justify-content: space-between;
+**-** _justify-content: space-between:_
 
 ---
 
-**css -**
+**css -** Cascade Stylesheet, oui folha de estilo em cascata. É o que define o estilo visual do documento _HTML_, ou _XML_, através de elementos. Atualmente o _CSS3_ passa pelo processo de padronização, oq tornará o _CSS2_ obsoleto e foi anunciado, entre 2021 e 2022, a construção da sua quarta versão.
 
-**-**
-.dark .projetos {},
+Ele pode ser declarado direto no documento html pela tag ```style``` ou anexada como um documento externo. Inserimos o link para o arquivo _CSS_ no ```head```da página.
+
+_Ex:_
+
+Declarado direto no _HTML_:
+
+~~~html
+<html>
+	<head>
+		<style>
+			body {
+				background-color: blue;
+      }
+			h1 {
+				color: red;
+				padding: 60px;
+			} 
+		</style>
+    </head>
+    <body>
+        <h1>Hostinger Tutoriais</h1>
+        <p>Este é o nosso parágrafo.</p>
+    </body>
+</html>
+~~~
+
+_Ex:_
+
+Inserção do aqruivo _CSS_ no _HTML_:
+
+~~~html
+<head>
+  <link rel="stylesheet" type="text/css" href="./styles.css" media="screen" />
+  <title>Aula 09: Certificard 1.0 - 3ª & 4ª Imersão Dev</title>
+</head>
+~~~
+
+E declaração no arquivo **styles.css**:
+
+~~~css
+	body {
+	background-color: blue;
+}
+h1 {
+	color: red;
+	padding: 60px;
+} 
+~~~
 
 ---
 
-**document.body.classList.toggle() -**
+**Element.classList -** é uma propriedade que retorna uma lista com os nomes das classe de um elemento(_TAG_), e **[DOMTokenLists](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList)** ~(seja lá o que isso for)~, que não pode escrever nada no nosso código, como as funções e métodos que vimos anteriormente.
+
+Mesmo que ele seja somente leitua, ainda podemos fazer modificações associando um **DOMTokenList** ~(mesmo sem fazer ideia doque isso seja)~, usando métodos como o ```toggle()``` utilizado no nosso exemplo.
 
 ~~~javascript
 function mudaTema() {
       document.body.classList.toggle("dark");
     }
 ~~~
+> O ```document.body``` se refere ao escopo de onde as auterações definidas pelo ```classList.toggle()``` iram agir, como vimos anteriormente, sendo ```body``` se referindo a todo o corpo demarcado pelo elemento ```body```no _HTML_ e document se refere à todo o documento _HTML_. como explicado pela Ballerini, poderia haver um _window_ antes do _document_ ficando  ```window.document.body```, representando toda a janela, mas é ocultado por motivos óbvios.
 
----
+**-** _toggle():_ _toogle_ significa interruptor. Ele "liga e desliga" um elemento quando ativado. É um método do ```classList``` e um **DOMTokeList**
+ ~(o que caralhos é um DOMTokenList)~. 
 
-**lorem ipsum -** dolor sit amet. Exorcisamus te onmini imundus spiritus.
+Ele funciona removendo um _token_ existente da lista de nomes de classes retornando falso. Se o token não existe, ele adiciona e retorna verdadeiro. Ligando e desligando as propriedades da classe de um elemento. Como o botão "_Tema escuro_" que ativa o conjunto de propriedades da classe ```dark```, através da propriedade ```body.classList```.
+
+Uma _string_ representa o _token_ que desejamos togglar ~(isso existe?)~.
+ > [O que é um DOMTolkenLit?](https://www.w3schools.com/jsref/dom_obj_html_domtokenlist.asp)
+ Traduzi e ainda não entendi.
 
 ---
 
@@ -59,7 +111,9 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-- **Desafio:** criar área para badges, certificados, social mídia. ✔
-- **Desafio:** trocar botão "tema escuro" para "tema claro" quando tema escuro estiver ativo.
+- **Desafio:** criar área para badges, certificados, socialmidia, etc. ✔️
+- **Desafio:** trocar botão "tema escuro" para "tema claro" quando tema escuro estiver ativo. ❗
+
+#### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
 
 [CodePen - Aula 10 : Portfólio pt.2](https://codepen.io/lannyer/pen/gOXqPYR) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula10-Certificardpt2)

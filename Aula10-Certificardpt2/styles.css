@@ -1,46 +1,31 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
+/* GERAL */
 body {
-  background: linear-gradient(236.85deg, #003B6F 27.26%, #0065BD 96.03%);
+  background-image: url('https://images.alphacoders.com/121/thumb-1920-1214404.png');
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   font-family: "Roboto", sans-serif;
 }
 
 .container {
-  background: #ecf4ff;
+  background: rgba(199, 197, 201, 0.2);
+  backdrop-filter: blur(5px);
+  --webkit-backdrop-filter: blur(5px);
   color: #1c1c1c;
   margin: 64px;
   border-radius: 20px;
   box-shadow: 6px 6px 6px #0e1d2f;
-  padding: 64px;
+  padding: 45px;
+  min-width: 750px;
 }
 
+/* CABEÇALHO */
 .cabecalho {
   display: flex;
   justify-content: space-between;
-}
-
-.perfil {
-  display: flex;
-}
-
-.perfil-foto {
-  border-radius: 460px;
-  max-height: 160px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-.titulo {
-  margin-left: 16px;
-}
-
-.titulo h1 {
-  font-weight: 700;
-  font-size: 36px;
-}
-
-.titulo h3 {
-  font-weight: 400;
-  font-size: 24px;
 }
 
 .tema button {
@@ -53,50 +38,200 @@ body {
 
 }
 
-.projetos {
+
+/* PORTFOLIO */
+.portfolio {
+  margin-top: 64px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 16px;
+}
+
+/* PORTFOLIO: PERFIL */
+.perfil {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.perfil-foto {
+  border-radius: 460px;
+  max-height: 140px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.titulo {
+  margin-left: 16px;
+}
+
+.titulo h1 {
+  padding-left: 0;
+  font-weight: 700;
+  font-size: 29px;
+}
+
+.titulo h3 {
+  font-weight: 400;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.titulo a {
+  color: #f6f6f6;
+  list-style-type: none;
+}
+
+/* PORTFOLIO: SOCIAL */
+.social {
+  justify-content: space-between;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(230.65deg, #0065BD 27.49%, #0087FC 83.19%);
-  margin-top: 28px;
+  background: linear-gradient(230.65deg, #ecf4fe 27.49%, #f1f1f1 83.19%);
   padding: 32px;
   border-radius: 20px;
   box-shadow: 6px 6px 6px #0e1d2f;
+  min-width: 250px;
+}
+
+.social h3 {
+  font-weight: bolder;
+  margin-top: 45px;
+}
+
+.social-img {
+  width: 48px;
+  height: 48px;
+  margin: 5px;
+}
+
+.social-img a {
+  text-decoration: none;
+}
+
+/* PORTFOLIO: PROJETOS */
+.projetos {
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(230.65deg, #ecf4fe 27.49%, #f1f1f1 83.19%);
+  padding: 32px;
+  border-radius: 20px;
+  box-shadow: 6px 6px 6px #0e1d2f;
+  min-width: 350px;
 }
 
 .projetos-titulo {
   list-style: none;
-  font-weight: 700;
-  font-size: 36px;
+  font-weight: bolder;
+  font-size: 28px;
+  margin-left: 16px;
+  margin-bottom: 65px;
+  padding: 0;
 }
 
 .projetos-item {
   list-style-type: none;
-  font-size: 21px;
-  font-weight: 700px;
-  line-height: 24px;
+  font-weight: 400px;
+  line-height: 48px;
+  font-size: 1.3rem;
+  text-align: left;
+  padding: 0.6rem;
+  color: #7d7c79;
+  font-weight: bolder;
 }
 
-.projetos-item a {
-  color: #1c1c1c;
+.projetos-item:hover {
+  cursor: pointer;
+  background-color: #c7c5c9;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 5px;
+  color: #eee;
+  font-weight: bolder;
+}
+
+.projetos summary {
+  cursor: pointer;
+}
+
+.projetos a {
+  color: #eee;
   text-decoration: none;
 }
 
+
+/* CERTIFICARD */
+.rodape {
+  background: #c7c5c9;
+  backdrop-filter: blur(7px);
+  --webkit-backdrop-filter: blur(100px);
+  margin-top: 28px;
+  padding: 32px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 4px #333;
+  min-width: 650px;
+  min-height: 350px;
+}
+
+/* CERTIFICARD: PARABENIZAÇÃO */
+.alura-logo {
+  width: 40px;
+  bottom: 10px;
+  right: 10px;
+}
+
+.page-logo {
+  width: 200px;
+  position: absolute;
+  top: 40px;
+  right: 40px;
+}
+
+/* CERTIFICARD: BADGES */
+.certificard ul {
+  list-style: none;
+  padding-left: 0;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.certificard li {
+  list-style-type: none;
+}
+
+.certificard img {
+  max-height: 75px;
+  margin: 10px;
+}
+
+
 /* TEMA ESCURO */
 .dark {
-  background: linear-gradient(236.85deg, #00213D 27.26%, #00437D 96.03%);
-}
-
-.dark .container {
-  background: #333439;
-  color: #f6f6f6;
-}
-
-.dark .projetos {
-  background: linear-gradient(230.65deg, #00213D 27.49%, #002E57 83.19%);
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5cfebab7bfcecb000194cc60/1586081888626-MCJ94FFLVVUAFF5ZUOH2/02.jpg');
 }
 
 .dark .tema button {
   background-color: #1c1c1c;
-  color: #fff;
+  color: #f6f6f6;
   border: 2px solid #f7f7f7;
+}
+
+.dark .container {
+  background: rgba(51, 52, 57, 0.5);
+  backdrop-filter: blur(7px);
+  --webkit-backdrop-filter: blur(100px);
+  color: #f6f6f6;
+}
+
+.dark .social {
+  background: #333;
+}
+
+.dark .projetos {
+  background: #333;
+}
+
+.dark .rodape {
+  background: #00213D;
+  color: #f6f6f6;
 }

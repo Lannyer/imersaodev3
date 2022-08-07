@@ -103,9 +103,9 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-- **Desafio Ballerini:** Número de tentativas.
-- **Desafio Paulo:** Dar dicas.
+- **Desafio Ballerini:** Número de tentativas. ✔️
+- **Desafio Paulo:** Dar dicas. ✔️
 - **Desafio Gui:** Pesquisasr condições.✔️
-- **Desafio bônus - Paulo:** Escutar Scuba Ponto Dev.
+- **Desafio bônus - Paulo:** Escutar Scuba Ponto Dev. ✔️
 
 [Codepen - Aula 03: Mentalista](https://codepen.io/lannyer/pen/gOGJXBe?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula3-Mentalista)
