@@ -70,8 +70,15 @@ Os projetos aqui encontradas, são as atividades realizadas em aula. Todos os m�
 ## Sobre os desafios
 
 Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que triviais podem conter, ou não, conteúdos ainda não estudados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
+>Os desafios a seguir, serão realizados posteriormente e disponibilizados no CodePen e no GitHub e talvez não entrem pra Imersão Shippuden. A finalidade deles não será servir como vitrine inicial como a Imersão, apenas como função de estudos.
 
-#### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
+- [Aula 1] Desafio Bônus - Ballerini: Conversor de medidas;
+- [Aula 2] Desafio Paulo: Criar conversor de km para anos luz;
+- [Aula 2] Desafio Guilherme: Conversor de temperatura;
+- [Aula 2] Desafio bônus - Paulo 2: usar funções em cada conversão, usando valor de retorno;
+- [Aula 7] Desafio Paulo: corrigir problema quando joga sem selecionar atributo; 
+
+#### ✔️- Projeto concluído ❕- Desafios serão realizados como estudo ❗- Desafios postergados para o remake da Imersão
 
 ---
 
@@ -131,11 +138,11 @@ Na segunda aula da Imersão Dev, vamos criar um conversor de moedas, onde você 
 
 ### Desafios
 
-- **Desafio Paulo:** Criar conversor de km para anos luz.
-- **Desafio Gui -** Conversor de temperatura.
+- **Desafio Paulo:** Criar conversor de km para anos luz. ❕
+- **Desafio Gui -** Conversor de temperatura. ❕
 - **Desafio Ballerini:** Criar novos botões de conversão.✔️
 - **Desafio bônus - Paulo 1:** Colocar conversor de BitCoin junto ao conversor de moedas.✔️
-- **Desafio bônus - Paulo 2:** usar funções em cada conversão, usando valor de retorno.
+- **Desafio bônus - Paulo 2:** usar funções em cada conversão, usando valor de retorno. ❕
 - **Desafio bônus - Paulo 3:** Input para escolher a taxa de conversão.✔️
 
 [CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.0-Conversor) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.1-ConversorDesafioGui) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.2-ConversorDesafioPaulo)
@@ -262,7 +269,7 @@ Nesta sétima aula da Imersão Dev, vamos criar um jogo de cartas chamado Trunfo
 
 ### Desafios
 
-- **Desafio Paulo:** corrigir problema quando joga sem selecionar atributo. 
+- **Desafio Paulo:** corrigir problema quando joga sem selecionar atributo. ❕ 
 - **Desafio Gui:** acrescentar cartas.
 - **Desafio Ballerini:** imagem do personagem escolhido. ❗
 - **Desafio bônus:**  cartas de forma direta [ Reassistir para relembrar ].
@@ -289,7 +296,7 @@ Nesta oitava aula da Imersão Dev, vamos evoluir ainda mais nosso Trunfo, focand
 ### Desafios
 
 - **Desafio Paulo:** personalisar estilo. ❗
-- **Desafio Gui:** exibir as cartas em uma função. 
+- **Desafio Gui:** exibir as cartas em uma função. [ Reassistir pra lembrar. ]
 - **Desafio Ballerini:** criar um baralho. [ Reassistir pra lembrar. ]
 - **Desafio bônus - Ballerini:** ganhar a carta do adversário. ❗
 - **Desafio bônus:** criar botão "Jogar Novamente". ✔️

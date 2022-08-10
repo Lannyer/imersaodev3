@@ -34,9 +34,10 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-- **Desafio Paulo:** Realisar calculo direto na impressão.✔️
+- **Desafio Ballerini:** Alterar design da página.✔️
+- **Desafio Paulo:** Realisar calculo direto na impressão. ✔️
 - **Desafio Gui:** Realizar calculo de uma forma diferente.✔️
-- **Desafio bônus - Ballerini:** Conversor de medidas.
+- **Desafio bônus - Ballerini:** Conversor de medidas. ❕
 
 [CodePen - Aula 01: Calculadora de média](https://codepen.io/lannyer/pen/RwLvPJj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.2-DesafioRafa)
 

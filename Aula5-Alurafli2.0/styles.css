@@ -1,3 +1,11 @@
+html {
+  height: 100%;
+}
+@media (max-height: 500px) {
+  body {
+    min-height:800px;
+  }
+}
 body {
   font-family: "Roboto Mono", monospace;
   text-align: center;
@@ -6,25 +14,30 @@ body {
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
+  background-attachment: fixed;
+
 }
 
 .container {
   text-align: center;
-  padding: 20px;
+  padding: 25px;
 }
 
 .page-title {
-  color: #fff;
-  margin: 0 0 5px;
-}
-
-.page-subtitle {
   color: #ffffff;
-  margin-top: 5px;
+  margin: 0 0 25px;
+  font-size: 2.4rem;
 }
 
 .page-logo {
   width: 200px;
+  padding-bottom: 20px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 15px;
+  font-size: 1.9rem;
 }
 
 .alura-logo {
@@ -64,4 +77,29 @@ body {
 
 .form-wrapper button:hover {
   opacity: 0.8;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+}
+
+filme {
+  margin: 25px;
+}
+
+input:focus::-webkit-input-placeholder {
+   color: transparent;
+}
+input:focus:-moz-placeholder { /* Firefox 18- */
+  color: transparent;  
+}
+input:focus::-moz-placeholder {  /* Firefox 19+ */
+  color: transparent;  
+}
+input:focus:-ms-input-placeholder {  
+  color: transparent;  
 }

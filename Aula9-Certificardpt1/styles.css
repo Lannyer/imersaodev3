@@ -43,23 +43,42 @@ body {
   display: flex;
   flex-direction: column;
 }
+.projetos-item {
+  list-style-type: none;
+  font-weight: 400px;
+  line-height: 48px;
+  font-size: 1.3rem;
+  text-align: left;
+}
+.projetos-item:hover {
+  cursor: pointer;
+  background-color: #003b6f;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 5px;
+}
+.projetos a {
+  color: #303442;
+  text-decoration: none;
+}
+.projetos a:hover {
+  color: #eee;
+  text-decoration: none;
+}
 
 /* RODAPÉ - PARTE INFERIOR */
 .rodape {
   background: #3468a7;
-
   margin-top: 28px;
   padding: 32px;
   border-radius: 20px;
   box-shadow: 4px 4px 4px #333;
 }
-
 .social img {
   width: 50px;
   height: 50px;
   margin: 8px;
 }
-
 .social a {
   color: #fff;
   font-weight: bold;

@@ -243,7 +243,7 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
 - **Desafio Paulo:** corrigir problema quando joga sem selecionar atributo. 
-- **Desafio Gui:** acrescentar cartas.
+- **Desafio Gui:** acrescentar cartas. ❕
 - **Desafio Ballerini:** imagem do personagem escolhido. ❗
 - **Desafio bônus:**  cartas de forma direta [ Reassistir para relembrar ].
 
