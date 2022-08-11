@@ -270,7 +270,7 @@ Nesta sétima aula da Imersão Dev, vamos criar um jogo de cartas chamado Trunfo
 ### Desafios
 
 - **Desafio Paulo:** corrigir problema quando joga sem selecionar atributo. ❕ 
-- **Desafio Gui:** acrescentar cartas.
+- **Desafio Gui:** acrescentar cartas. ✔️
 - **Desafio Ballerini:** imagem do personagem escolhido. ❗
 - **Desafio bônus:**  cartas de forma direta [ Reassistir para relembrar ].
 
@@ -296,8 +296,8 @@ Nesta oitava aula da Imersão Dev, vamos evoluir ainda mais nosso Trunfo, focand
 ### Desafios
 
 - **Desafio Paulo:** personalisar estilo. ❗
-- **Desafio Gui:** exibir as cartas em uma função. [ Reassistir pra lembrar. ]
-- **Desafio Ballerini:** criar um baralho. [ Reassistir pra lembrar. ]
+- **Desafio Gui:** exibir as cartas em uma função. ❗
+- **Desafio Ballerini:** criar um baralho. ❗
 - **Desafio bônus - Ballerini:** ganhar a carta do adversário. ❗
 - **Desafio bônus:** criar botão "Jogar Novamente". ✔️
 

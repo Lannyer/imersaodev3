@@ -127,6 +127,32 @@ body {
   margin-top: 30px;
   font-size: 0.8rem;
 }
+.texto {
+  display: flex;
+  flex-direction: column;
+  background: rgba(51, 52, 57, 0.7);
+  backdrop-filter: blur(7px);
+  --webkit-backdrop-filter: blur(100px);
+  margin-top: 28px;
+  padding: 32px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 4px #333;
+  min-width: 450px;
+  font-size:40px;
+  list-style-type: none;
+  font-weight: 400px;
+  line-height: 48px;
+  font-size: 1.1rem;
+  text-align: left;
+  padding: 45px;
+}
+
+.texto h1 {
+  margin-left: 35px;
+  font-weight: 700;
+  font-size: 40px;
+  text-shadow: #333 3px 4px 3px;
+}
 
 /* RODAPÉ - PARTE INFERIOR */
 .rodape {
