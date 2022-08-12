@@ -4,7 +4,7 @@
 
 ## 10 aulas gratuitas para aprender a criar seus primeiros códigos e começar a sua carreira em programação.
 
-[**Imersão Dev | Aprenda a programar de graça | Alura**](https://www.youtube.com/watch?v=-Gr1QJc7kco)
+[**Imersão Dev - Aprenda a programar de graça - Alura**](https://www.youtube.com/watch?v=-Gr1QJc7kco)
 
 <a name="menu"></a>
 ## MENU
