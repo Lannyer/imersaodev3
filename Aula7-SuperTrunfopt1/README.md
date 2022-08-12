@@ -248,4 +248,4 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 #### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
 
-[CodePen - Aula 07: Supertrunfo pt.1](https://codepen.io/lannyer/pen/ZEawbZV) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula7-SuperTrunfopt1)
+[CodePen - Aula 07: Supertrunfo pt.1](https://codepen.io/lannyer/pen/ZEawbZV) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula7-SuperTrunfopt1) | [Veja a página funcional aqui.]()

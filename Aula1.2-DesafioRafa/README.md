@@ -41,4 +41,4 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 [CodePen - Aula 01: Calculadora de média](https://codepen.io/lannyer/pen/RwLvPJj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.2-DesafioRafa)
 
-[CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.2-DesafioRafa)
+[CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.2-DesafioRafa) | [Veja a página funcional aqui.]()

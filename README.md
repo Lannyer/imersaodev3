@@ -114,7 +114,7 @@ Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, pa
 - [AULA 10 - CERTIFICARD: PORTFÓLIO](#ancora10)
 
 <a id="ancora01"></a>
-## AULA 01 - CALCULADORA DE MÉDIA: VARIÁVEIS & OPERAÇÕES
+## <a href="">AULA 01 - CALCULADORA DE MÉDIA: VARIÁVEIS & OPERAÇÕES</a>
 
 Na primeira aula da Imersão Dev, vamos criar uma calculadora de média e aprender o que são variáveis e como realizar operações! 
 
@@ -133,13 +133,13 @@ Na primeira aula da Imersão Dev, vamos criar uma calculadora de média e aprend
 - **Desafio Gui:** Realizar calculo de uma forma diferente.✔️
 - **Desafio bônus - Ballerini:** Conversor de medidas.
 
-[CodePen - Aula 01: Calculadora de média](https://codepen.io/lannyer/pen/RwLvPJj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.0-Media) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.1-OutrosDesafio) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.2-DesafioRafa)
+[CodePen - Aula 01: Calculadora de média](https://codepen.io/lannyer/pen/RwLvPJj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.0-Media) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.1-OutrosDesafio) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.2-DesafioRafa) | [Veja a página funcional aqui.]()
 
 #### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora02"></a>
-## AULA 02 - CONVERSOR DE MOEDAS
+## <a href="">AULA 02 - CONVERSOR DE MOEDAS</a>
 
 Na segunda aula da Imersão Dev, vamos criar um conversor de moedas, onde você conseguirá transformar em reais um produto que estiver com o preço em dólares!
 
@@ -159,13 +159,13 @@ Na segunda aula da Imersão Dev, vamos criar um conversor de moedas, onde você 
 - **Desafio bônus - Paulo 2:** usar funções em cada conversão, usando valor de retorno. ❕
 - **Desafio bônus - Paulo 3:** Input para escolher a taxa de conversão.✔️
 
-[CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.0-Conversor) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.1-ConversorDesafioGui) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.2-ConversorDesafioPaulo)
+[CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.0-Conversor) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.1-ConversorDesafioGui) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.2-ConversorDesafioPaulo) | [Veja a página funcional aqui.]()
 
 #### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora03"></a>
-## AULA 03 - MENTALISTA
+## <a href="">AULA 03 - MENTALISTA</a>
 
 Na terceira aula da Imersão Dev, vamos criar uma jogo de adivinhação, onde o programa escolhe um número aleatório e nós vamos tentar acertar.
 
@@ -183,13 +183,13 @@ Na terceira aula da Imersão Dev, vamos criar uma jogo de adivinhação, onde o 
 - **Desafio Gui:** Pesquisasr condições.✔️
 - **Desafio bônus - Paulo:** Escutar Scuba Ponto Dev. ✔️
 
-[Codepen - Aula 03: Mentalista](https://codepen.io/lannyer/pen/gOGJXBe?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula3-Mentalista)
+[Codepen - Aula 03: Mentalista](https://codepen.io/lannyer/pen/gOGJXBe?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula3-Mentalista) | [Veja a página funcional aqui.]()
 
 #### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora04"></a>
-## AULA 04 - ALURAFLIX 1.0: ARRAY & LISTA 
+## <a href="">AULA 04 - ALURAFLIX 1.0: ARRAY & LISTA</a> 
 
 No nosso dia-a-dia é normal trabalharmos com quantidades grandes de dados. Pense em uma lista de nomes de estudantes em uma escola, ou de todos os filmes do gênero "terror" em uma plataforma. Não é prático criarmos uma variável para cada informação, então utilizamos muitas estruturas de dados para fazer isso.
 
@@ -209,13 +209,13 @@ No nosso dia-a-dia é normal trabalharmos com quantidades grandes de dados. Pens
 - **Desafio Gui:** inserir imagem via submit.✔️
 - **Desafio Ballerini:** condição para evitar filme repetido. ❗
 
-[CodePen - Aula 04 pt.1: Listas & Laços](https://codepen.io/lannyer/pen/MWOgLRp?editors=0010) | [CodePen - Aula 04 pt.2: Aluraflix 1.0](https://codepen.io/lannyer/pen/OJOLqWy?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula4-Aluraflix1.0)
+[CodePen - Aula 04 pt.1: Listas & Laços](https://codepen.io/lannyer/pen/MWOgLRp?editors=0010) | [CodePen - Aula 04 pt.2: Aluraflix 1.0](https://codepen.io/lannyer/pen/OJOLqWy?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula4-Aluraflix1.0) | [Veja a página funcional aqui.]()
 
 #### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora05"></a>
-## AULA 05 - ALURAFLIX 2.0: FUNÇÃO
+## <a href="">AULA 05 - ALURAFLIX 2.0: FUNÇÃO</a>
 
 Na maior parte das vezes, queremos que a entrada dos nossos dados não seja apenas através do código que desenvolvemos ou pelo console, mas sim na tela. No nosso projeto AluraFlix queremos fazer dessa mesma maneira, e para isso utilizaremos o input.
 
@@ -237,13 +237,13 @@ Na maior parte das vezes, queremos que a entrada dos nossos dados não seja apen
 - **Desafio bônus - Paulo** No conversor de dólar: usar funções em cada conversão, usando valor de retorno. Input para escolher a taxa de conversão (atualziar usando função). 
 >_**Obs:** Desafio computado na aula. Para ver status, vá até o README dá aula em questão._
 
-[CodePen - Aula 05: Aluraflix 2.0](https://codepen.io/lannyer/pen/OJOVVOZ?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula5-Alurafli2.0)
+[CodePen - Aula 05: Aluraflix 2.0](https://codepen.io/lannyer/pen/OJOVVOZ?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula5-Alurafli2.0) | [Veja a página funcional aqui.]()
 
 #### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora06"></a>
-## AULA 06 - TABELAS DE CLASSIFICAÇÃO: OBJETOS
+## <a href="">AULA 06 - TABELAS DE CLASSIFICAÇÃO: OBJETOS</a>
 
 Nesta sexta aula da Imersão Dev, vamos criar uma tabela de classificação e aprender o que são objetos no Javascript!
 
@@ -264,13 +264,13 @@ Nesta sexta aula da Imersão Dev, vamos criar uma tabela de classificação e ap
 - **Desafio bônus - Gui:** zerar placar. ❗
 - **Desafio bônus - Ballerini:** adicionar um novo jogador. ❗
 
-[CodePen - Aula 06: Tabela de classificação](https://codepen.io/lannyer/pen/abVQqyj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula6-Tabela)
+[CodePen - Aula 06: Tabela de classificação](https://codepen.io/lannyer/pen/abVQqyj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula6-Tabela) | [Veja a página funcional aqui.]()
 
 #### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora07"></a>
-## AULA 07 - SUPERTRUNFO PT.1: LÓGICA DO JOGO
+## <a href="">AULA 07 - SUPERTRUNFO PT.1: LÓGICA DO JOGO</a>
 
 Nesta sétima aula da Imersão Dev, vamos criar um jogo de cartas chamado Trunfo! 
 
@@ -288,13 +288,13 @@ Nesta sétima aula da Imersão Dev, vamos criar um jogo de cartas chamado Trunfo
 - **Desafio Gui:** acrescentar cartas. ✔️
 - **Desafio Ballerini:** imagem do personagem escolhido. ❗
 
-[CodePen - Aula 07: Supertrunfo pt.1](https://codepen.io/lannyer/pen/ZEawbZV) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula7-SuperTrunfopt1)
+[CodePen - Aula 07: Supertrunfo pt.1](https://codepen.io/lannyer/pen/ZEawbZV) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula7-SuperTrunfopt1) | [Veja a página funcional aqui.]()
 
 #### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora08"></a>
-## AULA 08 - SUPERTRUNFO PT.2: CARTAS DO JOGO
+## <a href="">AULA 08 - SUPERTRUNFO PT.2: CARTAS DO JOGO</a>
 
 Nesta oitava aula da Imersão Dev, vamos evoluir ainda mais nosso Trunfo, focando em exibir as cartas na tela! 
 
@@ -315,13 +315,13 @@ Nesta oitava aula da Imersão Dev, vamos evoluir ainda mais nosso Trunfo, focand
 - **Desafio bônus - Ballerini:** ganhar a carta do adversário. ❗
 - **Desafio bônus:** criar botão "Jogar Novamente". ✔️
 
-[CodePen - Aula 08: Supertrunfo pt.2](https://codepen.io/lannyer/pen/KKyJdjx) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula8-SuperTrunfopt2)
+[CodePen - Aula 08: Supertrunfo pt.2](https://codepen.io/lannyer/pen/KKyJdjx) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula8-SuperTrunfopt2) | [Veja a página funcional aqui.]()
 
 #### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora09"></a>
-## AULA 09 - CERTIFICARD 1.0: FIGMA, HTML & CSS
+## <a href="">AULA 09 - CERTIFICARD 1.0: FIGMA, HTML & CSS</a>
 
 Nesta nona aula da Imersão Dev, desscobriremos como usar o Figma para um layout em código HTML e CSS para o nosso portfólio!
 
@@ -338,13 +338,13 @@ Nesta nona aula da Imersão Dev, desscobriremos como usar o Figma para um layout
 - **Desafio Ballerini:** terminar projeto do Figma. ✔️
 - **Desafio bônus - Paulo:** realizar novos projetos e aprimorar os anteriores. ❗
 
-[CodePen - Aula 09 : Portfólio pt.1](https://codepen.io/lannyer/pen/KKyJdOx) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula9-Certificardpt1)
+[CodePen - Aula 09 : Portfólio pt.1](https://codepen.io/lannyer/pen/KKyJdOx) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula9-Certificardpt1) | [Veja a página funcional aqui.]()
 
 #### [_**Lista de atividades**_](#ancora)
 
 
 <a id="ancora10"></a>
-## AULA 10 - CERTIFICARD 2.0: PORTFÓLIO
+## <a href="">AULA 10 - CERTIFICARD 2.0: PORTFÓLIO</a>
 
 Nesta décima e última aula da Imersão Dev, você vai evoluir seu portfólio com temas claro e escuro e ainda colocar no ar para que todas as pessoas possam acessar!
 
@@ -361,7 +361,7 @@ Nesta décima e última aula da Imersão Dev, você vai evoluir seu portfólio c
 - **Desafio:** criar área para badges, certificados, socialmidia, etc. ✔️
 - **Desafio:** trocar botão "tema escuro" para "tema claro" quando tema escuro estiver ativo. ❗
 
-[CodePen - Aula 10 : Portfólio pt.2](https://codepen.io/lannyer/pen/gOXqPYR) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula10-Certificardpt2)
+[CodePen - Aula 10 : Portfólio pt.2](https://codepen.io/lannyer/pen/gOXqPYR) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula10-Certificardpt2) | [Veja a página funcional aqui.]()
 
 #### [_**Lista de atividades**_](#ancora)
 

@@ -156,4 +156,4 @@ Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, pa
 
 #### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
 
-[CodePen - Aula 09 : Portfólio pt.1](https://codepen.io/lannyer/pen/KKyJdOx) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula9-Certificardpt1)
+[CodePen - Aula 09 : Portfólio pt.1](https://codepen.io/lannyer/pen/KKyJdOx) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula9-Certificardpt1) | [Veja a página funcional aqui.]()

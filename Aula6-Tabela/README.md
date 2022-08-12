@@ -132,4 +132,4 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 #### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
 
-[CodePen - Aula 06: Tabela de classificação](https://codepen.io/lannyer/pen/abVQqyj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula6-Tabela)
+[CodePen - Aula 06: Tabela de classificação](https://codepen.io/lannyer/pen/abVQqyj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula6-Tabela) | [Veja a página funcional aqui.]()
