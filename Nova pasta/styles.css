@@ -127,6 +127,7 @@ body {
   margin-top: 30px;
   font-size: 0.8rem;
 }
+
 .texto {
   display: flex;
   flex-direction: column;
@@ -138,7 +139,7 @@ body {
   border-radius: 20px;
   box-shadow: 4px 4px 4px #333;
   min-width: 450px;
-  font-size:40px;
+  font-size: 40px;
   list-style-type: none;
   font-weight: 400px;
   line-height: 48px;

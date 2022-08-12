@@ -124,9 +124,9 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 >Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, para o projeto desta aula, são bem desafiadores, mesmo que simples. Mesmo que trivíais podem conter, ou não, conteúdos ainda não estutados até o momento da aula, sendo assim, necessário mais pesquisas, estudos, paciência e empenho.
 
-- **Desafio Paulo:** personalziar tabela.✔
+- **Desafio Paulo:** personalziar tabela. ✔️
 - **Desafio Gui:** colocar imagem do jogador. ❗
-- **Desafio Ballerini:** validar empates, vitórias e derrotas.
+- **Desafio Ballerini:** validar empates, vitórias e derrotas. ❗
 - **Desafio bônus - Gui:** zerar placar. ❗
 - **Desafio bônus - Ballerini:** adicionar um novo jogador. ❗
 

@@ -1,5 +1,6 @@
-# [3ª & 4ª ImersãoDev - Alura](https://imersao.dev)
 <a name="topo"></a>
+# [3ª & 4ª ImersãoDev - Alura](https://imersao.dev)
+
 
 ## 10 aulas gratuitas para aprender a criar seus primeiros códigos e começar a sua carreira em programação.
 
@@ -7,16 +8,29 @@
 
 <a name="menu"></a>
 ## MENU
-- [SOBRE A IMERSÃO](#indice1)
-- [CONTEÚDO DA IMERSÃO](#indice2)
-- [ATIVIDADES & DESAFIOS](#indice3)
-- [SOBRE O DEV](#indice4)
+- [SOBRE O DEV](#indice1)
+- [SOBRE A IMERSÃO](#indice2)
+- [CONTEÚDO DA IMERSÃO](#indice3)
+- [ATIVIDADES & DESAFIOS](#indice4)
 
 ---
 
 <br>
 
 <a name="indice1"></a>
+# [SOBRE O DEV](#menu)
+
+## Hello, Friend.
+
+Me chamo Lannyer, mais conhecido como Lanny. Nada mais que um nerd, à moda não-tão-antiga, fã de tecnologia e cultura pop, picado por um mosquitinho vermelho aí. Comecei minha jornada no desenvolvimento web por volta de 2011, saindo do mercado em 2016, junto da interrupção da faculdade de Sistemas para Internet, para seguir a carreira de cozinheiro.
+
+Depois desse hiato, decidi, voltar para o desenvolvimento web, com o intuito de juntar a T.I com a psicologia e atuar no desenvolvimento das linguagens em crianças dentro do espectro autista.
+
+---
+
+<br>
+
+<a name="indice2"></a>
 # [SOBRE A IMERSÃO](#menu)
 
 ## Aulas todos os dias
@@ -56,7 +70,7 @@ _E para consultas usei as plataformas:_
 
 <br>
 
-<a name="indice2"></a>
+<a name="indice3"></a>
 # [CONTEÚDO DA IMERSÃO](#menu)
 
 ## [Seja bem-vindo as aulas da 3ª, e 4ª, ImersãoDev Alura](https://codepen.io/lannyer/details/yLKPzpv)
@@ -84,7 +98,7 @@ Os desafios criados pelo Paulo Silveira, pela Rafa Ballerini e pelo Gui Lima, pa
 
 <br>
 
-<a name="indice3"></a>
+<a name="indice4"></a>
 <a name="ancora"></a>
 # [ATIVIDADES & DESAFIOS](#menu)
 
@@ -220,7 +234,8 @@ Na maior parte das vezes, queremos que a entrada dos nossos dados não seja apen
 - **Desafio Ballerini:** Colocar legenda. ❗
 - **Desafio Gui:** Remover filme. ❗
 - **Desafio Paulo:** Guardar em lista. ❗
-- **Desafio bônus - Paulo** No conversor de dólar: usar funções em cada conversão, usando valor de retorno. Input para escolher a taxa de conversão (atualziar usando função). _**Obs:** Desafio computado na aula. Para ver status, vá até o README dá aula em questão._
+- **Desafio bônus - Paulo** No conversor de dólar: usar funções em cada conversão, usando valor de retorno. Input para escolher a taxa de conversão (atualziar usando função). 
+>_**Obs:** Desafio computado na aula. Para ver status, vá até o README dá aula em questão._
 
 [CodePen - Aula 05: Aluraflix 2.0](https://codepen.io/lannyer/pen/OJOVVOZ?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula5-Alurafli2.0)
 
@@ -243,9 +258,9 @@ Nesta sexta aula da Imersão Dev, vamos criar uma tabela de classificação e ap
 
 ### Desafios
 
-- **Desafio Paulo:** personalziar tabela.✔
+- **Desafio Paulo:** personalziar tabela. ✔️
 - **Desafio Gui:** colocar imagem do jogador. ❗
-- **Desafio Ballerini:** validar empates, vitórias e derrotas.
+- **Desafio Ballerini:** validar empates, vitórias e derrotas. ❗
 - **Desafio bônus - Gui:** zerar placar. ❗
 - **Desafio bônus - Ballerini:** adicionar um novo jogador. ❗
 
@@ -272,7 +287,6 @@ Nesta sétima aula da Imersão Dev, vamos criar um jogo de cartas chamado Trunfo
 - **Desafio Paulo:** corrigir problema quando joga sem selecionar atributo. ❕ 
 - **Desafio Gui:** acrescentar cartas. ✔️
 - **Desafio Ballerini:** imagem do personagem escolhido. ❗
-- **Desafio bônus:**  cartas de forma direta [ Reassistir para relembrar ].
 
 [CodePen - Aula 07: Supertrunfo pt.1](https://codepen.io/lannyer/pen/ZEawbZV) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula7-SuperTrunfopt1)
 
@@ -351,17 +365,5 @@ Nesta décima e última aula da Imersão Dev, você vai evoluir seu portfólio c
 
 #### [_**Lista de atividades**_](#ancora)
 
----
-
-<br>
-
-<a name="indice4"></a>
-# [SOBRE O DEV](#menu)
-
-## Hello, Friend.
-
-Me chamo Lannyer, mais conhecido como Lanny. Nada mais que um nerd, à moda não-tão-antiga, fã de tecnologia e cultura pop, picado por um mosquitinho vermelho aí. Comecei minha jornada no desenvolvimento web por volta de 2011, saindo do mercado em 2016, junto da interrupção da faculdade de Sistemas para Internet, para seguir a carreira de cozinheiro.
-
-Depois desse hiato, decidi, voltar para o desenvolvimento web, com o intuito de juntar a T.I com a psicologia e atuar no desenvolvimento das linguagens em crianças dentro do espectro autista.
 
 #### [_**Início**_](#topo)

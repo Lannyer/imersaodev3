@@ -194,7 +194,8 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 - **Desafio Ballerini:** Colocar legenda. ❗
 - **Desafio Gui:** Remover filme. ❗
 - **Desafio Paulo:** Guardar em lista. ❗
-- **Desafio bônus - Paulo** No conversor de dólar: usar funções em cada conversão, usando valor de retorno. Input para escolher a taxa de conversão (atualziar usando função). _**Obs:** Desafio computado na aula. Para ver status, vá até o README dá aula em questão._
+- **Desafio bônus - Paulo** No conversor de dólar: usar funções em cada conversão, usando valor de retorno. Input para escolher a taxa de conversão (atualziar usando função). 
+>_**Obs:** Desafio computado na aula. Para ver status, vá até o README dá aula em questão._
 
 #### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
 
