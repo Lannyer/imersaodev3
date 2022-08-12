@@ -131,7 +131,7 @@ Na primeira aula da Imersão Dev, vamos criar uma calculadora de média e aprend
 - **Desafio Ballerini:** Alterar design da página.✔
 - **Desafio Paulo:** Realisar calculo direto na impressão.✔
 - **Desafio Gui:** Realizar calculo de uma forma diferente.✔️
-- **Desafio bônus - Ballerini:** Conversor de medidas.
+- **Desafio bônus - Ballerini:** Conversor de medidas. ❕
 
 [CodePen - Aula 01: Calculadora de média](https://codepen.io/lannyer/pen/RwLvPJj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.0-Media) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.1-OutrosDesafio) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.2-DesafioRafa) | [Veja a página funcional aqui.](https://lannyer.github.io/imersaodev3/Aula1.0-Media/)
 
