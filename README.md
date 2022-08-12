@@ -133,7 +133,7 @@ Na primeira aula da Imersão Dev, vamos criar uma calculadora de média e aprend
 - **Desafio Gui:** Realizar calculo de uma forma diferente.✔️
 - **Desafio bônus - Ballerini:** Conversor de medidas.
 
-[CodePen - Aula 01: Calculadora de média](https://codepen.io/lannyer/pen/RwLvPJj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.0-Media) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.1-OutrosDesafio) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.2-DesafioRafa) | [Veja a página funcional aqui.]()
+[CodePen - Aula 01: Calculadora de média](https://codepen.io/lannyer/pen/RwLvPJj?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.0-Media) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.1-OutrosDesafio) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula1.2-DesafioRafa) | [Veja a página funcional aqui.](https://lannyer.github.io/imersaodev3/Aula1.0-Media/)
 
 #### [_**Lista de atividades**_](#ancora)
 
@@ -159,7 +159,7 @@ Na segunda aula da Imersão Dev, vamos criar um conversor de moedas, onde você 
 - **Desafio bônus - Paulo 2:** usar funções em cada conversão, usando valor de retorno. ❕
 - **Desafio bônus - Paulo 3:** Input para escolher a taxa de conversão.✔️
 
-[CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.0-Conversor) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.1-ConversorDesafioGui) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.2-ConversorDesafioPaulo) | [Veja a página funcional aqui.]()
+[CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.0-Conversor) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.1-ConversorDesafioGui) | [Repositório do desafio no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.2-ConversorDesafioPaulo) | [Veja a página funcional aqui.](https://lannyer.github.io/imersaodev3/aula2.0-Conversor)
 
 #### [_**Lista de atividades**_](#ancora)
 

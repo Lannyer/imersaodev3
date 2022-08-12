@@ -1,70 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;500;600&display=swap');
+html {
+  height: 100%;
+}
+@media (max-height: 500px) {
+  body {
+    min-height:800px;
+  }
+}
 body {
-  font-family: "Roboto Mono", monospace;
-  min-height: 400px;
-  background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-1-conversor-de-moedas.png");
-  background-color: #000000;
-  background-size: 100vh;
-  background-position: center bottom;
-  background-repeat: no-repeat;
+ background-color: #1c1c1c;
+ color: #eee;
+ font-family: "Oswald";
 }
 
 .container {
   text-align: center;
   padding: 20px;
-  height: 100vh;
+  height: 35vh;
 }
-
-.page-title {
-  color: #ffffff;
-  margin: 0 0 5px;
-}
-
-.page-subtitle {
-  color: #ffffff;
-  margin-top: 5px;
-}
-
 .page-logo {
   width: 200px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.page-title {
+  padding-bottom: 20px;
+  color: #E0AF26;
+  margin: 0 0 25px;
+  font-size: 2.4rem;
+}
+.page-subtitle {
+  color: #f7f7f7;
+  margin-top: 15px;
+  font-size: 1.4rem;
 }
 
-.alura-logo {
-  width: 40px;
-  position: absolute;
-  top: 10px;
-  right: 10px;
+.container2 {
+  background-image: url("https://cdn.wizard.com.br/wp-content/uploads/2016/05/18172126/numeros-em-ingl%C3%AAs.jpg");
+  background-position: center fill;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 65vh;
+  padding-top: 80px;
 }
-
+label {
+  font-size: 2.1rem;
+  color: #E0AF26;
+  text-shadow: #1b1c1f 2px 3px 2px;
+}
 input {
-  margin: 12px;
+  text-align: center;
+  margin-top: 65px;
   padding: 6px;
   border-radius: 5px;
+  border: solid 2px #e0af26;
+  background-color: #333;
+  height: 30px;
+  width: 247px;
+  color: #cfcfde;
 }
-
-label {
-  color: white;
-}
-
 button {
-  margin-top: 12px;
-  padding: 4px 8px;
-  border-radius: 10px;
-  background: #ffffff;
+  margin-top: 20px;
+  padding: 4px 10px;
+  border-radius: 5px;
+  background: #f8d936;
+  height: 50px;
+  cursor :pointer;
+  border: solid 2px #333;
+  color: #333;
 }
-
+button:hover {
+  transition-duration: 0.1s;
+  background-color: #ffe252;
+  border: solid 2px #fff;
+  color: #fff;
+}
+button:active {
+  transition-duration: 0.1s;
+  background: #f7f7f7;
+  border: solid 2px #fcaf2b;
+  color: #fcaf2b;
+}
 select {
-  margin-top: 12px;
-  padding: 4px 8px;
-  border-radius: 10px;
-  background: #ffffff;
+  padding: 7px 9px 6px 23px;
+  border-radius: 6px;
+  background: #333;
+  height: 50px;
+  cursor :pointer;
+  border: solid 2px #e0af26;
+  color: #cfcfde;
+}
+option {
+  text-align: justify;
+  color: #cfcfde;
+  background: #333;
+}
+input, button, select {
+  font-size: 1rem;
+}
+.valorConvertido {
+  margin-top: 75px;
+  color: #eee;
+  font-size: 2.2rem;
+  font-weight: bolder;
+  text-shadow: #1b1c1f 2px 3px 2px;
+  box-sizing: border-box;
+  background-color: #E0AF26;
+  padding: 0.7rem 0 0.7rem;
+  text-align: center;
 }
 
-h2 {
-  color: #ffffff;
-  font-size: 30px;
+.rodape {
+  height: 30px;
+  padding: 10px 0 0 10px;
+  background-color: #f8d936;
+}
+.alura-logo {
+  width: 40px;
+  bottom: 10px;
+  left: 10px;
 }
 
-h3 {
-  color: #ffffff;
-  font-size: 23px;
+input:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+input:focus:-moz-placeholder { /* Firefox 18- */
+  color: transparent;  
+}
+input:focus::-moz-placeholder {  /* Firefox 19+ */
+  color: transparent;  
+}
+input:focus:-ms-input-placeholder {  
+  color: transparent;  
 }

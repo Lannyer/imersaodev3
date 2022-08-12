@@ -21,3 +21,4 @@ function listarFilmesNaTela(filme) {
   elementoListaFilmes.innerHTML =
     elementoListaFilmes.innerHTML + elementoFilmeFavorito;
 }
+

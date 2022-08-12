@@ -6,31 +6,46 @@
 </head>
 
 <body>
+
 	<div class="container">
-		<h1 class="page-title">
-			Aula 02 - Conversor de Moeda
-		</h1>
-		<p class="page-subtitle">
-			Descubra os valores em Real, Euro, BitCoin, Dogecoin, Bala Juquinha, Uno Mile 2010 e Gol Bolinha 98!!!
-		</p>
+		<h1 class="page-title">Aula 02 - Conversor de moedas</h1>
+		<p class="page-subtitle">Descubral a cotação do dolar em: Real, Euro, BitCoin, Dogecoin, Uno Mile 2010 e Gol
+			Bolinha 98 e até em Bala Juquinha!!!</p>
 		<img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-conversor-de-moedas.svg"
 			class="page-logo" alt=""><br><br>
-		<label for="moeda">Insira o valor</label><br>
-		<input type="number" id="valor" size="2" /><br>
-		<button type="submit" onclick="Converter()">Converter</button>
+	</div>
+
+	<div class="container2">
+
+		<label for="moeda">Vamos descobrir a cotação do dólar!</label>
+		<br>
+		<input type="number" id="valor" size="2" placeholder="Insira o valor" />
+		<br>
 		<select id="taxaConversao">
+			<option value="">Opções</option>
 			<option value="real">Real</option>
 			<option value="euro">Euro</option>
 			<option value="bitcoin">BitCoin</option>
-			<option value="dogecoin">GogeCoin</option>
+			<option value="dogecoin">Dogecoin</option>
 			<option value="unomile">Uno Mile 2010</option>
 			<option value="golbolinha">Gol Bolinha 98</option>
 			<option value="balajuquinha">Bala Juquinha</option>
 		</select>
-		<h2 id="valorConvertido"></h2>
+		<button type="submit" onclick="Converter()">Converter</button>
+
+		<div id="valorConvertido">
+
+		</div>
+
 	</div>
-	<a href="https://alura.com.br/" target="_blank">
-		<img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+
+	<div class="rodape">
+
+		<a href="https://alura.com.br/" target="_blank"><img
+				src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo"></a>
+
+	</div>
+
 </body>
 <scrip type="text/javascript" src="./js/script.js"></scrip>
 

@@ -41,4 +41,4 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 - **Desafio bônus - Paulo 2:** usar funções em cada conversão, usando valor de retorno. ❕
 - **Desafio bônus - Paulo 3:** Input para escolher a taxa de conversão.✔️
 
-[CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.1-ConversorDesafioGui) | [Veja a página funcional aqui.]()
+[CodePen - Aula 02: Conversor de moedas](https://codepen.io/lannyer/pen/PoJLLMg?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula2.1-ConversorDesafioGui) | [Veja a página funcional aqui.](https://lannyer.github.io/imersaodev3/aula2.0-Conversor)

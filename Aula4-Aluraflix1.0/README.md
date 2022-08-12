@@ -100,4 +100,4 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 #### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
 
-[CodePen - Aula 04 pt.1: Listas & Laços](https://codepen.io/lannyer/pen/MWOgLRp?editors=0010) | [CodePen - Aula 04 pt.2: Aluraflix 1.0](https://codepen.io/lannyer/pen/OJOLqWy?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula4-Aluraflix1.0) | [Veja a página funcional aqui.]()
+[CodePen - Aula 04 pt.1: Listas & Laços](https://codepen.io/lannyer/pen/MWOgLRp?editors=0010) | [CodePen - Aula 04 pt.2: Aluraflix 1.0](https://codepen.io/lannyer/pen/OJOLqWy?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula4-Aluraflix1.0) | [Veja a página funcional aqui.](https://lannyer.github.io/imersaodev3/aula4-Aluraflix1.0)

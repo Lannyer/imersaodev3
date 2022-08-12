@@ -103,19 +103,52 @@ body {
 
 .projetos-item {
   list-style-type: none;
+  background-color: #eee;
   font-weight: 400px;
   line-height: 48px;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   text-align: left;
-  padding: 0.6rem;
+  margin: 7px;
+  color: #003b6f;
 }
 
 .projetos-item:hover {
   cursor: pointer;
   background-color: #003b6f;
   box-sizing: border-box;
+  border-radius: 6px;
+  margin: 7px;
+  color: #eee;
+}
+
+.texto-link {
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #eee;
+  box-sizing: border-box;
   border-radius: 5px;
   padding: 5px;
+  color: #003b6f;
+}
+
+.texto-link:hover {
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #003b6f;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 5px;
+  color: #eee;
+}
+
+.texto {
+  color: #eee;
+  text-decoration: none;
+}
+
+.texto a {
+  color: #eee;
+  text-decoration: none;
 }
 
 .projetos a {

@@ -199,4 +199,4 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 
 #### ✔️- Desafio concluído ❗- Desafio postergado para o remake da Imersão
 
-[CodePen - Aula 05: Aluraflix 2.0](https://codepen.io/lannyer/pen/OJOVVOZ?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula5-Alurafli2.0) | [Veja a página funcional aqui.]()
+[CodePen - Aula 05: Aluraflix 2.0](https://codepen.io/lannyer/pen/OJOVVOZ?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula5-Alurafli2.0) | [Veja a página funcional aqui.](https://lannyer.github.io/imersaodev3/aula5-Aluraflix2.0)

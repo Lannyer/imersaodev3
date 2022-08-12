@@ -108,4 +108,4 @@ Para saber mais sobre os assuntos tratados nesta aula e para realizar os desafio
 - **Desafio Gui:** Pesquisasr condições.✔️
 - **Desafio bônus - Paulo:** Escutar Scuba Ponto Dev. ✔️
 
-[Codepen - Aula 03: Mentalista](https://codepen.io/lannyer/pen/gOGJXBe?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula3-Mentalista) | [Veja a página funcional aqui.]()
+[Codepen - Aula 03: Mentalista](https://codepen.io/lannyer/pen/gOGJXBe?editors=0010) | [Repositório no GitHub](https://github.com/Lannyer/imersaodev3/tree/master/Aula3-Mentalista) | [Veja a página funcional aqui.](https://lannyer.github.io/imersaodev3/aula3-Mentalista)

@@ -1,5 +1,6 @@
 var listaFilmes = [ "https://c4.wallpaperflare.com/wallpaper/144/450/423/star-wars-movies-star-wars-the-last-jedi-poster-wallpaper-preview.jpg", "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg", "https://g4carros.com.br/wp-content/uploads/2022/03/ARCANE-Ato-3-Netflix-divulga-trailer-da-serie-animada-baseada-no-game-LEAGUE-OF-LEGENDS-poster.jpg", "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg", "https://observatoriodocinema.uol.com.br/wp-content/uploads/2022/03/httpsimage.tmdb_.orgtporiginalh8PEObIiYUo4wHGo2qgWge2wqzv-1200x1800.jpg", "https://i.pinimg.com/originals/63/33/fd/6333fdb09959a558c4395019c8d117e2.jpg", "https://1.bp.blogspot.com/-ImZPRqLsluE/WFK156_6pNI/AAAAAAAAYBY/0lEhNRF5wfQdLfr6hpT57_Jt2eBrE9H5wCLcB/s1600/arrival-kartoun-desert.jpg", "https://cdna.artstation.com/p/assets/images/images/024/047/556/medium/daniel-tetzner-standbyme-1920.jpg?1581149099", "http://pdposter.weebly.com/uploads/1/1/4/1/11413024/4402549_orig.jpg", "https://observatoriodocinema.uol.com.br/wp-content/uploads/2022/03/httpsimage.tmdb_.orgtporiginalh8PEObIiYUo4wHGo2qgWge2wqzv-1200x1800.jpg", "https://br.web.img3.acsta.net/pictures/22/02/02/11/57/3889555.jpg"];
 
 for (var i = 0; i < listaFilmes.length; i++) {
-  document.write("<img src=" + listaFilmes[i] + "/>");
+  document.write("<img class='filme' src=" + listaFilmes[i] + ">");
 }
+

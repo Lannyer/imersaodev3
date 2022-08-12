@@ -95,7 +95,7 @@ var carta12 = {
   }
 };
 
-var cartas = [carta1, carta2, carta3 carta4, carta5, carta6 carta7, carta8, carta9, carta10, carta11, carta12 ];
+var cartas = [carta1, carta2, carta3, carta4, carta5, carta6, carta7, carta8, carta9, carta10, carta11, carta12];
 var cartaMaquina;
 var cartaJogador;
 

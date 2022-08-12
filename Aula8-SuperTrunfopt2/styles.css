@@ -1,42 +1,55 @@
-body {
+html {
+    height: 100%;
+  }
+  @media (max-height: 500px) {
+    body {
+      min-height:800px;
+    }
+  }
+  body {
     font-family: 'Roboto Mono', monospace;
     min-height: 854px;
-    background-image: url('https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-07-super-trunfo-bg.png');
+    background-image: url('https://cosmonerd.com.br//uploads/2020/03/01PZ020_Daring-Poro-small.jpg');
     background-color: #000000;
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
-    padding-bottom: 20vh;
-}
-
-.container {
+    background-attachment: fixed;
+  }
+  
+  .container {
     text-align: center;
     padding: 20px;
     background: rgba(128, 128, 128, 0.4);
     backdrop-filter: blur(5px);
     --webkit-backdrop-filter: blur(5px);
-}
-
-.page-title {
+  }
+  .page-logo {
+    width: 350px;
+    padding-bottom: 65px;
+  }
+  .page-title {
     color: #ffffff;
     margin: 5px 0;
-}
-
-button,
-.button-jogar {
+    font-size: 2.4rem;
+  }
+  button {
     padding: .8rem 1.5rem;
     margin: 1rem 0;
     border-radius: 5px;
     border: none;
-    font-size: 1rem;
-}
-
-h2 {
+    font-size: 2.8;
+    cursor: pointer;
+    background-color: #eee;
+    box-sizing: border-box;
+    width: 16rm;
+    height: 4rm;
+    font: inherit;
+  }
+  h2 {
     color: white;
-}
-
-#carta-jogador,
-#carta-maquina {
+  }
+  #carta-jogador, #carta-maquina {
     width: 360px;
     height: 500px;
     overflow: auto;
@@ -51,74 +64,75 @@ h2 {
     background-position-x: 5px;
     background-position-y: 10px;
     border-radius: 33px;
-}
-
-#carta-jogador h3 {
+  }
+  #carta-jogador h3 {
     text-align: center;
-}
-
-.carta-imagem {
+  }
+  .carta-imagem {
     border: 1px solid black;
     height: 100px;
     margin: 10px;
-}
-
-.carta-imagem img {
+  }
+  .carta-imagem img {
     width: 100%;
     height: 100%;
-}
-
-.carta-status {
+  }
+  .carta-status {
     height: 160px;
     margin: 2rem;
     color: white;
     z-index: 2;
-}
-
-.carta-status input {
+  }
+  .carta-status input {
     margin: 20px 10px;
-}
-
-.resultado-final {
-    color: white;
-    font-size: 2rem;
-    text-transform: uppercase;
-    font-weigth: bolder;
-    padding: 1rem;
-    border: 2px solid black;
-    background-color: black;
-}
-
-.--spacing {
+  }
+  .resultado-final {
+    color: #eee;
+    font-size: 2.4rem;
+    font-weight: bolder;
+    box-sizing: border-box;
+    background-color: #1c1c1c;
+    padding: 0.7rem 0 0.7rem;
+  }
+  .--spacing {
     margin-left: 2.5rem;
-}
-
-form {
+  }
+  form {
     display: flex;
     flex-direction: column;
-}
-
-.wrapper {
+  }
+  form .button-jogar {
+    padding: .8rem 1.5rem;
+    margin: 1rem 0;
+    border-radius: 5px;
+    border: none;
+    font-size: 2.8;
+    cursor: pointer;
+    background-color: #eee;
+    box-sizing: border-box;
+    width: 16rm;
+    height: 4rm;
+    font: inherit;
+  }
+  .wrapper {
     display: flex;
     justify-content: space-between;
     width: 100%;
-}
-
-.carta-subtitle {
+  }
+  .carta-subtitle {
     z-index: 2;
     position: absolute;
     top: 16px;
     left: 37px;
     font-weight: 800;
     text-transform: uppercase;
-}
-
-#cartas {
+  }
+  #cartas {
     width: 100%;
     display: flex;
     justify-content: space-between;
-}
-
-.carta-status p {
+  }
+  
+  .carta-status p {
     margin-bottom: 2rem;
-}
+  }
