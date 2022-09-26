@@ -54,20 +54,3 @@ function adicionarDerrota(i) {
     jogador.pontos = calculaPontos(jogador);
   exibirJogadores(jogadores);
 }
-
-
-// ---
-// E ATENÇÃO!!! Se liga aí, que agora é hora de REVISÃO!
-
-// objeto == {} -> registro/estrutura, {nome:"rafa", vitorias:2} -> propriedade -> chave: valor, console.log(rafa.vitorias), function calculaPontos(jogador) {var pontos = jogador.vitorias} -> parametro == argumento/jogador.vitorias, return, elemento = elemento + "..." == elemento += "soma em si"/ elemento +=, for (var i =0; i < jogadores.length), "<tr><td>" + jogadores[i].nome + "</td>", "<td><buttom onClick'adicionarVitoria(" + i + ")'>Vitória</button></buttom></td>"
-
-
-// ---
-// DESAFIOS
-
-// Desafio Paulo: personalziar tabela. 
-// Desafio Guilherme: colocar imagem do jogador.
-// Desafio Ballerini: validar empates, vitórias e derrotas.
-// Desafio bônus - Guilherme: zerar placar.
-// Desafio bônus - Ballerini: adicionar um novo jogador.
-// Desafio bônus - Paulo: colocar um troféu para o ganhador.
