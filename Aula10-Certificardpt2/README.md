@@ -73,7 +73,7 @@ Inserção do aqruivo _CSS_ no _HTML_:
 ~~~html
 <head>
   <link rel="stylesheet" type="text/css" href="./styles.css" media="screen" />
-  <title>Aula 09: Certificard 1.0 - 3ª & 4ª Imersão Dev</title>
+  <title>Aula 09: Certificard 1.0 - 3ª Imersão Dev</title>
 </head>
 ~~~
 

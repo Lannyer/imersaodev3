@@ -1,5 +1,5 @@
 <a name="topo"></a>
-# [3ª & 4ª ImersãoDev - Alura](https://imersao.dev)
+# [3ª ImersãoDev - Alura](https://imersao.dev)
 
 
 ## 10 aulas gratuitas para aprender a criar seus primeiros códigos e começar a sua carreira em programação.
